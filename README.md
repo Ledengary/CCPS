@@ -33,7 +33,7 @@ This repository provides the scripts to replicate these steps.
 
 All datasets used for training, validation, and evaluation in this work are publicly available on Hugging Face Datasets:
 
-**🤗 Dataset Hub Link:** [https://huggingface.co/datasets/ledengary/CCPS](https://huggingface.co/datasets/ledengary/CCPS)
+<strong>🤗 Dataset Hub Link:</strong> <a href="https://huggingface.co/datasets/ledengary/CCPS" target="_blank" rel="noopener noreferrer">https://huggingface.co/datasets/ledengary/CCPS</a>
 
 The dataset includes:
 * **Training/Validation Sets:**
