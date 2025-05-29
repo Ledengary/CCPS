@@ -4,7 +4,7 @@ This repository contains the official implementation for the paper: **"CCPS: Cal
 
 Our CCPS method offers a novel approach to estimate the confidence of Large Language Models (LLMs) by analyzing the stability of their internal representations when subjected to targeted adversarial perturbations. This repository provides the code to reproduce our experiments, including feature extraction, model training, and evaluation.
 
-**Paper:** (to be added)
+<strong>Paper:</strong> <a href="https://arxiv.org/abs/2505.21772" target="_blank" rel="noopener noreferrer">https://arxiv.org/abs/2505.21772q</a>
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -331,3 +331,14 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ## Citation
 If you use CCPS or this codebase in your research, please cite our paper:
+
+```bibtex
+@misc{khanmohammadi2025calibratingllmconfidenceprobing,
+      title={Calibrating LLM Confidence by Probing Perturbed Representation Stability}, 
+      author={Reza Khanmohammadi and Erfan Miahi and Mehrsa Mardikoraem and Simerjot Kaur and Ivan Brugere and Charese H. Smiley and Kundan Thind and Mohammad M. Ghassemi},
+      year={2025},
+      eprint={2505.21772},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.21772}, 
+}
