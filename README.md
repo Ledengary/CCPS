@@ -333,7 +333,7 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 If you use CCPS or this codebase in your research, please cite our paper:
 
 ```bibtex
-@misc{khanmohammadi2025calibratingllmconfidenceprobing,
+@misc{ccps,
       title={Calibrating LLM Confidence by Probing Perturbed Representation Stability}, 
       author={Reza Khanmohammadi and Erfan Miahi and Mehrsa Mardikoraem and Simerjot Kaur and Ivan Brugere and Charese H. Smiley and Kundan Thind and Mohammad M. Ghassemi},
       year={2025},
