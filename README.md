@@ -66,7 +66,7 @@ Please refer to the [Hugging Face dataset card](https://huggingface.co/datasets/
     ```
 3.  **Install dependencies:**
 
-    This project uses Python 3.12.9. All required packages are listed in the `requirements.txt` file. To install them:
+    This project was developed using Python 3.12.9. All required packages are listed in the `requirements.txt` file. To install them:
 
     ```bash
     pip install -r requirements.txt
