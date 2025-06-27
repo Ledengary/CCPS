@@ -4,7 +4,7 @@ This repository contains the official implementation for the paper: **"CCPS: Cal
 
 Our CCPS method offers a novel approach to estimate the confidence of Large Language Models (LLMs) by analyzing the stability of their internal representations when subjected to targeted adversarial perturbations. This repository provides the code to reproduce our experiments, including feature extraction, model training, and evaluation.
 
-<strong>Paper:</strong> <a href="https://arxiv.org/abs/2505.21772" target="_blank" rel="noopener noreferrer">https://arxiv.org/abs/2505.21772q</a>
+<strong>Paper:</strong> <a href="https://arxiv.org/abs/2505.21772" target="_blank" rel="noopener noreferrer">https://arxiv.org/abs/2505.21772</a>
 
 ## Table of Contents
 1. [Overview](#overview)
