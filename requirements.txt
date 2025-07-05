@@ -1,0 +1,29 @@
+# Core ML and Deep Learning
+torch==2.5.1+cu121  # Adjust if targeting a different CUDA version
+transformers==4.48.3
+numpy==1.26.4
+pandas==2.2.3
+
+# Machine Learning and Data Science
+scikit-learn==1.6.1
+umap-learn==0.5.7
+
+# Visualization
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# Data Loading and Processing
+jsonlines==4.0.0
+datasets==3.5.0
+
+# Progress Bars and Utilities
+tqdm==4.67.1
+
+# OpenAI API (if using GPT models)
+openai==1.70.0
+
+# vLLM for high-performance inference
+vllm==0.7.2 # Installed version; install from source recommended: https://github.com/vllm-project/vllm
+
+# Unsloth for efficient LLM loading and fine-tuning
+unsloth==2025.2.15  # Installed version; install from source recommended: https://github.com/unslothai/unsloth
